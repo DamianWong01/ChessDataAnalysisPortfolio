@@ -18,8 +18,7 @@ _The case study follows the six step data analysis process:_
 Task : In Chess, are there variations in opening popularity and success rates among different player ratings?
 
 ## 2. Prepare
-Data Soucre: Filtered all games from lichess to only keep games by players rated 2400+ against players rated 2200+, excluding bullet games.
-https://database.nikonoel.fr/ from https://database.lichess.org/
+Data Source: [High-Elo Games Chess Opening Dataset by MÖBIUS](https://www.kaggle.com/datasets/arashnic/chess-opening-dataset/)
 
 Positive aspects of the dataset:
 * Relevance: By focusing on games played by top-rated players, I am likely to capture high-level opening theory and strategies, which can be valuable for players interested in the latest developments in chess.
@@ -27,13 +26,9 @@ Positive aspects of the dataset:
 
 The dataset has limitations:
 * Limited Sample Size: Filtering games to such specific rating ranges may reduce the size of your dataset significantly. Be mindful of potential limitations due to a smaller sample size, which could affect the statistical significance of your findings.
-*   From December 2021 on, the author of the dataset only kept games of 2500+ vs. 2300+ rated players.
+* The data is only till 2018 and there may have been new trends and improvements in opening theory.
 
 ## 3. Process
-Using {chess} is an opinionated wrapper for R around python-chess: https://github.com/curso-r/chess
-```{R}
-install.packages("chess")
-```
 
 ## 4. Analyze
 

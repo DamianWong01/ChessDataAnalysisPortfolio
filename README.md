@@ -82,6 +82,7 @@ ggplot(cleaned_data, aes(x = avg_player)) +
 <img width="681" alt="image" src="https://github.com/DamianWong01/ChessDataAnalysisPortfolio/assets/88598436/49d5cbe5-8e7c-4602-8a76-97b561924896">
 
 To look at the distribution of openings against the frequency they are played at and the average rating of the players of that particular opening, I have made an interactive scatterplot graph.
+
 <img width="357" alt="image" src="https://github.com/DamianWong01/ChessDataAnalysisPortfolio/assets/88598436/1b105d66-9b81-4dc5-a270-ada10b974a5c">
 
 ## 5. Share 

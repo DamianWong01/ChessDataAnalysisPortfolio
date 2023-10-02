@@ -109,13 +109,12 @@ Divergence in Win Rates: While some openings were popular across all categories,
 
 Strategic Considerations: Understanding the differences in opening popularity and success rates can help players tailor their strategies. Novice players might focus on openings with high success rates in the < 2000 category.
 
-#### Interactive Scatterplot
+#### [Interactive Scatterplot](http://rpubs.com/damianw189/ChessDataAnalysisPortfolio)
 The interactive scatterplot provides a dynamic visual representation of the relationship between player ratings and the number of games played with each opening. Users can explore the data by hovering over points to see opening names and win rates.
 
 By interacting with the scatterplot, users can gain insights into the distribution of openings across player ratings. It becomes apparent which openings are popular at different skill levels and how they correlate with player ratings.
 
-For the interactive plot, open the file in this directory called 'Interactive Plot.html'
-<img width="357" alt="image" src="https://github.com/DamianWong01/ChessDataAnalysisPortfolio/assets/88598436/1b105d66-9b81-4dc5-a270-ada10b974a5c">
+For the scatterplot, click [HERE](http://rpubs.com/damianw189/ChessDataAnalysisPortfolio).
 
 ## 5. Share 
 Data Visualization

@@ -114,6 +114,7 @@ The interactive scatterplot provides a dynamic visual representation of the rela
 
 By interacting with the scatterplot, users can gain insights into the distribution of openings across player ratings. It becomes apparent which openings are popular at different skill levels and how they correlate with player ratings.
 
+For the interactive plot, open the file in this directory called 'Interactive Plot.html'
 <img width="357" alt="image" src="https://github.com/DamianWong01/ChessDataAnalysisPortfolio/assets/88598436/1b105d66-9b81-4dc5-a270-ada10b974a5c">
 
 ## 5. Share 
